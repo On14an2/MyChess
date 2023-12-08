@@ -33,7 +33,7 @@ public class Rook : Piece
         return GetMoves(from, board).Any(move =>
         {
             Piece piece = board[move.ToPos];
-            return piece != null && piece.Type == PieceType.Knight;
+            return piece != null && piece.Type == PieceType.King;
         });
     }
 }

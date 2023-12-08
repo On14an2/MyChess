@@ -1,4 +1,4 @@
-namespace ChessUI;
+namespace ChessUI.Model;
 
 public enum Option
 {

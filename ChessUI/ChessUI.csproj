@@ -8,31 +8,31 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Assets\BishopB.png" />
-    <None Remove="Assets\BishopW.png" />
-    <None Remove="Assets\Bishop_B.png" />
-    <None Remove="Assets\Bishop_W.png" />
-    <None Remove="Assets\Board.png" />
-    <None Remove="Assets\KingB.png" />
-    <None Remove="Assets\KingW.png" />
-    <None Remove="Assets\King_B.png" />
-    <None Remove="Assets\King_W.png" />
-    <None Remove="Assets\KnightB.png" />
-    <None Remove="Assets\KnightW.png" />
-    <None Remove="Assets\Knight_B.png" />
-    <None Remove="Assets\Knight_W.png" />
-    <None Remove="Assets\PawnB.png" />
-    <None Remove="Assets\PawnW.png" />
-    <None Remove="Assets\Pawn_B.png" />
-    <None Remove="Assets\Pawn_W.png" />
-    <None Remove="Assets\QueenB.png" />
-    <None Remove="Assets\QueenW.png" />
-    <None Remove="Assets\Queen_B.png" />
-    <None Remove="Assets\Queen_W.png" />
-    <None Remove="Assets\RookB.png" />
-    <None Remove="Assets\RookW.png" />
-    <None Remove="Assets\Rook_B.png" />
-    <None Remove="Assets\Rook_W.png" />
+    <None Remove="View\Assets\BishopB.png" />
+    <None Remove="View\Assets\BishopW.png" />
+    <None Remove="View\Assets\Bishop_B.png" />
+    <None Remove="View\Assets\Bishop_W.png" />
+    <None Remove="View\Assets\Board.png" />
+    <None Remove="View\Assets\KingB.png" />
+    <None Remove="View\Assets\KingW.png" />
+    <None Remove="View\Assets\King_B.png" />
+    <None Remove="View\Assets\King_W.png" />
+    <None Remove="View\Assets\KnightB.png" />
+    <None Remove="View\Assets\KnightW.png" />
+    <None Remove="View\Assets\Knight_B.png" />
+    <None Remove="View\Assets\Knight_W.png" />
+    <None Remove="View\Assets\PawnB.png" />
+    <None Remove="View\Assets\PawnW.png" />
+    <None Remove="View\Assets\Pawn_B.png" />
+    <None Remove="View\Assets\Pawn_W.png" />
+    <None Remove="View\Assets\QueenB.png" />
+    <None Remove="View\Assets\QueenW.png" />
+    <None Remove="View\Assets\Queen_B.png" />
+    <None Remove="View\Assets\Queen_W.png" />
+    <None Remove="View\Assets\RookB.png" />
+    <None Remove="View\Assets\RookW.png" />
+    <None Remove="View\Assets\Rook_B.png" />
+    <None Remove="View\Assets\Rook_W.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -40,31 +40,31 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Assets\BishopB.png" />
-    <Resource Include="Assets\BishopW.png" />
-    <Resource Include="Assets\Bishop_B.png" />
-    <Resource Include="Assets\Bishop_W.png" />
-    <Resource Include="Assets\Board.png" />
-    <Resource Include="Assets\KingB.png" />
-    <Resource Include="Assets\KingW.png" />
-    <Resource Include="Assets\King_B.png" />
-    <Resource Include="Assets\King_W.png" />
-    <Resource Include="Assets\KnightB.png" />
-    <Resource Include="Assets\KnightW.png" />
-    <Resource Include="Assets\Knight_B.png" />
-    <Resource Include="Assets\Knight_W.png" />
-    <Resource Include="Assets\PawnB.png" />
-    <Resource Include="Assets\PawnW.png" />
-    <Resource Include="Assets\Pawn_B.png" />
-    <Resource Include="Assets\Pawn_W.png" />
-    <Resource Include="Assets\QueenB.png" />
-    <Resource Include="Assets\QueenW.png" />
-    <Resource Include="Assets\Queen_B.png" />
-    <Resource Include="Assets\Queen_W.png" />
-    <Resource Include="Assets\RookB.png" />
-    <Resource Include="Assets\RookW.png" />
-    <Resource Include="Assets\Rook_B.png" />
-    <Resource Include="Assets\Rook_W.png" />
+    <Resource Include="View\Assets\BishopB.png" />
+    <Resource Include="View\Assets\BishopW.png" />
+    <Resource Include="View\Assets\Bishop_B.png" />
+    <Resource Include="View\Assets\Bishop_W.png" />
+    <Resource Include="View\Assets\Board.png" />
+    <Resource Include="View\Assets\KingB.png" />
+    <Resource Include="View\Assets\KingW.png" />
+    <Resource Include="View\Assets\King_B.png" />
+    <Resource Include="View\Assets\King_W.png" />
+    <Resource Include="View\Assets\KnightB.png" />
+    <Resource Include="View\Assets\KnightW.png" />
+    <Resource Include="View\Assets\Knight_B.png" />
+    <Resource Include="View\Assets\Knight_W.png" />
+    <Resource Include="View\Assets\PawnB.png" />
+    <Resource Include="View\Assets\PawnW.png" />
+    <Resource Include="View\Assets\Pawn_B.png" />
+    <Resource Include="View\Assets\Pawn_W.png" />
+    <Resource Include="View\Assets\QueenB.png" />
+    <Resource Include="View\Assets\QueenW.png" />
+    <Resource Include="View\Assets\Queen_B.png" />
+    <Resource Include="View\Assets\Queen_W.png" />
+    <Resource Include="View\Assets\RookB.png" />
+    <Resource Include="View\Assets\RookW.png" />
+    <Resource Include="View\Assets\Rook_B.png" />
+    <Resource Include="View\Assets\Rook_W.png" />
   </ItemGroup>
 
 </Project>

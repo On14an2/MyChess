@@ -15,7 +15,7 @@
               Height="600"
               MouseDown="BoardGrid_OnMouseDown">
             <Grid.Background>
-                <ImageBrush ImageSource = "Assets/Board.png"/>
+                <ImageBrush ImageSource = "/View/Assets/Board.png"/>
             </Grid.Background>
             
             <UniformGrid x:Name="HighlightGrid"
