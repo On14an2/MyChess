@@ -11,20 +11,20 @@ public static class Images
     private static readonly Dictionary<PieceType, ImageSource> whiteSources = new()
     {
         { PieceType.Pawn, LoadImage("../View/Assets/PawnW.png") },
-        { PieceType.Bishop, LoadImage("Assets/BishopW.png") },
-        { PieceType.Knight, LoadImage("Assets/KnightW.png") },
-        { PieceType.Rook, LoadImage("Assets/RookW.png") },
-        { PieceType.King, LoadImage("Assets/KingW.png") },
-        { PieceType.Queen, LoadImage("Assets/QueenW.png") }
+        { PieceType.Bishop, LoadImage("../View/Assets/BishopW.png") },
+        { PieceType.Knight, LoadImage("..View/Assets/KnightW.png") },
+        { PieceType.Rook, LoadImage("../View/Assets/RookW.png") },
+        { PieceType.King, LoadImage("../View/Assets/KingW.png") },
+        { PieceType.Queen, LoadImage("../View/Assets/QueenW.png") }
     };
     private static readonly Dictionary<PieceType, ImageSource> blackSources = new()
     {
-        { PieceType.Pawn, LoadImage("Assets/PawnB.png") },
-        { PieceType.Bishop, LoadImage("Assets/BishopB.png") },
-        { PieceType.Knight, LoadImage("Assets/KnightB.png") },
-        { PieceType.Rook, LoadImage("Assets/RookB.png") },
-        { PieceType.King, LoadImage("Assets/KingB.png") },
-        { PieceType.Queen, LoadImage("Assets/QueenB.png") }
+        { PieceType.Pawn, LoadImage("../View/Assets/PawnB.png") },
+        { PieceType.Bishop, LoadImage("../View/Assets/BishopB.png") },
+        { PieceType.Knight, LoadImage("../View/Assets/KnightB.png") },
+        { PieceType.Rook, LoadImage("../View/Assets/RookB.png") },
+        { PieceType.King, LoadImage("../View/Assets/KingB.png") },
+        { PieceType.Queen, LoadImage("../View/Assets/QueenB.png") }
     };
 
     private static ImageSource LoadImage(string filePath)
